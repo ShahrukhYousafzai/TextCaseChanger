@@ -1,0 +1,13 @@
+S:\Projects\TextCaseChanger\TextCaseChanger\bin\Debug\netcoreapp3.1\TextCaseChanger.exe
+S:\Projects\TextCaseChanger\TextCaseChanger\bin\Debug\netcoreapp3.1\TextCaseChanger.deps.json
+S:\Projects\TextCaseChanger\TextCaseChanger\bin\Debug\netcoreapp3.1\TextCaseChanger.runtimeconfig.json
+S:\Projects\TextCaseChanger\TextCaseChanger\bin\Debug\netcoreapp3.1\TextCaseChanger.runtimeconfig.dev.json
+S:\Projects\TextCaseChanger\TextCaseChanger\bin\Debug\netcoreapp3.1\TextCaseChanger.dll
+S:\Projects\TextCaseChanger\TextCaseChanger\bin\Debug\netcoreapp3.1\TextCaseChanger.pdb
+S:\Projects\TextCaseChanger\TextCaseChanger\obj\Debug\netcoreapp3.1\TextCaseChanger.csprojAssemblyReference.cache
+S:\Projects\TextCaseChanger\TextCaseChanger\obj\Debug\netcoreapp3.1\TextCaseChanger.csproj.CoreCompileInputs.cache
+S:\Projects\TextCaseChanger\TextCaseChanger\obj\Debug\netcoreapp3.1\TextCaseChanger.AssemblyInfoInputs.cache
+S:\Projects\TextCaseChanger\TextCaseChanger\obj\Debug\netcoreapp3.1\TextCaseChanger.AssemblyInfo.cs
+S:\Projects\TextCaseChanger\TextCaseChanger\obj\Debug\netcoreapp3.1\TextCaseChanger.dll
+S:\Projects\TextCaseChanger\TextCaseChanger\obj\Debug\netcoreapp3.1\TextCaseChanger.pdb
+S:\Projects\TextCaseChanger\TextCaseChanger\obj\Debug\netcoreapp3.1\TextCaseChanger.genruntimeconfig.cache
